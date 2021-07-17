@@ -1,0 +1,46 @@
+body{
+    box-sizing: content-box ;
+    background-size: cover;
+}
+header{
+    box-sizing: border-box;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul{box-sizing: border-box;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+}
+
+/*tipografia*/
+section{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    letter-spacing: 10px;
+    box-sizing: border-box;
+    padding: 40px;
+}
+footer{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    letter-spacing: 4.6px;
+    background: rgba(255, 255, 255, 0.281);
+    box-sizing: border-box;
+    padding: 10px;
+}
+aside{
+    background-image: url(imagenes\ emilia\ cole/home.jpg);
+    background-size: 971px;
+    width: 1330px;
+    height: 600px;
+    background-position: right;
+    background-repeat: no-repeat;
+    border: ridge;
+}
+a{
+    text-decoration: none;
+}

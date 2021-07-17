@@ -1,0 +1,58 @@
+aside{
+    background-image:url(imagenes\ emilia\ cole/about.jpg);
+    background-size: 955px;
+    width: 1334px;
+    height: 605px;
+    background-position: right;
+    background-repeat: no-repeat;
+    border: ridge;
+}
+nav{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    text-align: right;
+    box-sizing: border-box;
+    padding: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.397);
+}
+header{
+    text-align: right;
+    box-sizing: border-box;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+section{color: rgb(104, 194, 250);}
+.raleway{
+    font-family: 'Raleway', sans-serif;
+    font-size: 27px;
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+
+}
+.work{
+    font-family: 'Work Sans', sans-serif;
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+a{
+    text-decoration: none;
+}

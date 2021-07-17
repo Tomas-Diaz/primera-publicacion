@@ -1,0 +1,77 @@
+body{
+    box-sizing: border-box;
+    border: ridge;
+}
+header{
+    background-image: url(imagenes\ emilia\ cole/music-top.jpg);
+    text-align: right;
+    box-sizing: border-box;
+    width: 1330px;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    text-align: right;
+    box-sizing: border-box;
+    width: 1310px;
+    padding: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.397);
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+h2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+article{
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+ol{
+    list-style: decimal-leading-zero;
+    font-family: 'Work Sans', sans-serif;
+}
+.linkeo{
+    font-family: 'Work Sans', sans-serif;
+    box-sizing: border-box;
+    padding-left: 70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+.titulo{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.descripcion{
+    font-family: 'Work Sans', sans-serif;
+}
+.top{
+    font-family: 'Work Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}

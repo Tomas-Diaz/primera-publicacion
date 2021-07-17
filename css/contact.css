@@ -1,0 +1,60 @@
+body{
+    box-sizing: border-box;
+    border: ridge;
+}
+header{
+    text-align: right;
+    box-sizing: border-box;
+    width: 1330px;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    text-align: right;
+    box-sizing: border-box;
+    width: 1310px;
+    padding: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+article{
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+.azul{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(72, 167, 226);
+}
+.contact{
+    font-family: 'Work Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
